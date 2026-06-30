@@ -16,12 +16,12 @@ git commit -m "Initial commit: school-management-system"
 
 Using GitHub CLI:
 ```bash
-gh repo create <your-repo> --public --source=. --remote=origin --push
+gh repo create <School-Management-System-2> --public --source=. --remote=origin --push
 ```
 
 Or manually create the repo on github.com and then:
 ```bash
-git remote add origin https://github.com/<your-username>/<your-repo>.git
+git remote add origin https://abbas1216a.github.io/school-management-system/
 git push -u origin main
 ```
 
