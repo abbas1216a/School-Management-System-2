@@ -27,7 +27,7 @@ git push -u origin main
 
 3. The included GitHub Actions workflow (`.github/workflows/pages.yml`) will automatically publish the repository to GitHub Pages after push. The site URL will be:
 
-`https://<your-username>.github.io/<your-repo>/`
+`https://abbas1216a.github.io/school-management-system/
 
 Notes
 - If your default branch is `master`, push to `master` instead of `main`.
